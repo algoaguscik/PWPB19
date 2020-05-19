@@ -1,5 +1,5 @@
 <?php 
 
-echo 'tambah.php'
+echo 'tambah.php algo';
 
 ?>

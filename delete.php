@@ -1,5 +1,5 @@
 <?php 
 
-echo 'delete.php' 
+echo 'delete.php algo';
 
 ?>
